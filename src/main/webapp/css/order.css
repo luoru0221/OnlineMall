@@ -1,0 +1,157 @@
+.sub_page_name {
+    font-size: 18px;
+    color: #666;
+    margin: 50px 0 0 20px;
+}
+
+.search_con {
+    width: 616px;
+    height: 38px;
+    border: 1px solid #ff0000;
+    margin: 34px 0 0 124px;
+    background: url(../images/icons.png) 10px -338px no-repeat;
+}
+
+.search_con .input_text {
+    width: 470px;
+    height: 34px;
+    border: 0;
+    margin: 2px 0 0 36px;
+    outline: none;
+    font-size: 12px;
+    color: #737272;
+    font-family: 'Microsoft Yahei', serif;
+}
+
+.search_con .input_btn {
+    width: 100px;
+    height: 38px;
+    background-color: #ff0000;
+    border: 0;
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Microsoft Yahei', serif;
+    outline: none;
+    cursor: pointer;
+}
+
+.main_con {
+    margin-bottom: 100px;
+}
+
+.address_con {
+    width: 1198px;
+    margin: 0 auto;
+    height: 70px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+}
+
+.address_con div {
+    float: left;
+    height: 25px;
+    line-height: 25px;
+    margin: 5px;
+    width: 900px;
+}
+
+.address_con a {
+    float: right;
+    height: 20px;
+    width: 100px;
+    line-height: 20px;
+    margin: -10px 5px;
+}
+
+.address_con a:hover {
+    color: red;
+}
+
+.order_list {
+    margin-bottom: 15px;
+}
+
+.order_list_td {
+    width: 1198px;
+    height: 100px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #f7f7f7;
+    margin: 0 auto;
+    line-height: 100px;
+}
+
+.order_image {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.order_image img {
+    width: 100%;
+    height: 100%;
+}
+
+.order_name {
+    width: 25%;
+    text-align: left;
+    font-size: 14px;
+}
+
+.order_price {
+    width: 20%;
+    text-align: left;
+    font-size: 14px;
+}
+
+.order_number {
+    width: 20%;
+    text-align: left;
+    font-size: 14px;
+}
+
+.order_total_price {
+    width: 20%;
+    text-align: left;
+    font-size: 14px;
+}
+
+.submit_order_con {
+    height: 60px;
+    width: 1198px;
+    margin: auto;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.submit_order_con div {
+    float: left;
+    height: 60px;
+    width: 300px;
+    margin-left: 5px;
+    font-size: 20px;
+    line-height: 60px;
+}
+
+.submit_order_con span {
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    line-height: 60px;
+    color: red;
+}
+
+#submit_order {
+    height: 60px;
+    width: 140px;
+    background-color: red;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 60px;
+    color: #fff;
+    font-family: 'Microsoft YaHei', serif;
+    cursor: pointer;
+    text-align: center;
+}

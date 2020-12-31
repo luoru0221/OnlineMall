@@ -1,0 +1,163 @@
+/*登录界面顶部空白区域*/
+.login_top{
+    width: 960px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+/*登录表单背景*/
+.login_form_bg{
+    height: 480px;
+    background-image: url(../images/loginbackground2.jpg);
+}
+
+/*登录表单及左侧图片的容器*/
+.login_form_wrap {
+    width: 1000px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+/*登录表单左侧图片*/
+.login_image {
+    width: 500px;
+    height: 386px;
+    /*background: url(../images/login_banner.png) no-repeat;*/
+    margin-top: 40px;
+}
+
+/*登录表单*/
+.login_form {
+    width: 368px;
+    height: 380px;
+    border: 1px solid #c6c6c5;
+    background-color: #ffffff;
+    margin-top: 50px;
+}
+
+/*登录表单顶部名称*/
+.login_title{
+    height: 60px;
+    width:308px;
+    margin:10px auto;
+    border-bottom:1px solid #e0e0e0;
+}
+.login_title a.cur {
+    color: #e3101e;
+}
+.login_title a{
+    width: 308px;
+    line-height: 20px;
+    font-size: 18px;
+    color: #5e5e5e;
+    text-align: center;
+    float: left;
+    margin-top: 20px;
+}
+
+/*表单*/
+.form_con .cur {
+    display: block;
+}
+.form_input {
+    width: 308px;
+    height: 210px;
+    margin: 20px auto;
+    position: relative;
+    display: none;
+}
+
+.name_input,.pass_input{
+    width: 306px;
+    height: 36px;
+    border: 1px solid #e0e0e0;
+    background: url(../images/icons02.png) no-repeat #f8f8f8;
+    outline: none;
+    font-size: 16px;
+    text-indent: 10px;
+    position: absolute;
+    left: 0;
+}
+
+.name_input{
+    top:0;
+    background-position: 280px -41px;
+}
+
+.pass_input {
+    top: 65px;
+    background-position: 280px -95px;
+}
+
+.user_error, .pwd_error {
+    color: #f00;
+    position: absolute;
+    left: 0;
+    top: 43px;
+}
+
+/*记住登录*/
+.more_input {
+    position: absolute;
+    left: 0;
+    top: 130px;
+    width: 100%;
+
+}
+.more_input input {
+    float: left;
+    margin-top: 2px;
+}
+.more_input label {
+    float: left;
+    margin-left: 10px;
+}
+/*忘记密码链接*/
+.more_input a {
+    float: right;
+    color: #666;
+}
+.more_input a:hover{
+    color: #ff0000;
+}
+/*登录按钮*/
+.input_submit {
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    left: 0;
+    top: 180px;
+    background-color: #ff5757;
+    color: #fff;
+    font-size: 22px;
+    border: 0;
+    font-family: 'Microsoft YaHei', serif;
+    cursor: pointer;
+}
+
+.third_party{
+    border-top:1px solid #e0e0e0;
+    margin-top: 30px;
+}
+.third_party #prompt{
+    color: red;
+    line-height: 45px;
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+/*立即注册按钮*/
+.register_btn {
+    background: url(../images/icons02.png) left 9px no-repeat;
+    float: right;
+    line-height: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 7px;
+    color: #666;
+    font-size: 14px;
+    text-indent: 22px;
+}
+.register_btn:hover{
+    color: #ff0000;
+}

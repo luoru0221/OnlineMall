@@ -1,0 +1,220 @@
+.user_header {
+    height: 90px;
+    background-color: #3f3d45;
+}
+
+.wrap {
+    width: 1128px;
+    margin: 0 auto;
+}
+
+.wrap_logo {
+    float: left;
+    width: 145px;
+    height: 28px;
+    overflow: hidden;
+    margin-top: 31px;
+    outline: 0;
+}
+
+.wrap_logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.main_con {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.left_menu h3 {
+    font-size: 16px;
+    line-height: 40px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.left_menu {
+    width: 200px;
+    float: left;
+    /*background: url(/images/left_bg.jpg) repeat-y;*/
+}
+
+.left_menu ul li {
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.menu_a {
+    color: #8c8c8c;
+}
+
+.active a {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.right_content {
+    width: 980px;
+    float: right;
+    min-height: 500px;
+}
+
+.content {
+    display: none;
+}
+
+.content_title {
+    height: 20px;
+    line-height: 20px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.inf_con {
+    margin: 10px 100px;
+    border: 1px solid #ddd;
+}
+
+.inf_con li {
+    height: 30px;
+    line-height: 30px;
+    margin: 10px;
+}
+
+.inf_con li label {
+    display: inline-block;
+    height: 30px;
+    width: 100px;
+    line-height: 30px;
+    font-size: 16px;
+    font-family: 'Microsoft YaHei', serif;
+    text-align: left;
+}
+
+.inf_con li b {
+    height: 28px;
+    line-height: 28px;
+    font-size: 16px;
+    font-family: 'Microsoft YaHei', serif;
+    border: 1px solid #ddd;
+}
+
+.address_con {
+    margin: 10px 100px;
+    border: 1px solid #ddd;
+}
+
+.address_con label {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    font-family: 'Microsoft YaHei', serif;
+    width: 100px;
+    margin-bottom: 30px;
+}
+
+.recipient {
+    height: 40px;
+    width: 400px;
+    border: 1px solid red;
+    margin-bottom: 30px;
+}
+
+.recipient input {
+    height: 40px;
+    width: 400px;
+    border: none;
+    outline: none;
+    line-height: 40px;
+    font-size: 16px;
+    font-family: 'Microsoft YaHei', serif;
+}
+
+.address {
+    height: 80px;
+    width: 400px;
+    border: 1px solid red;
+    margin-bottom: 30px;
+}
+
+.address textarea {
+    height: 78px;
+    width: 400px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+
+#saveAddress {
+    height: 40px;
+    width: 160px;
+    background-color: red;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: 'Microsoft YaHei', serif;
+    color: #f8f8f8;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.edit_con{
+    margin: 10px 100px;
+    border: 1px solid #ddd;
+}
+.edit_ul{
+    width: 455px;
+    margin: 30px auto;
+}
+.edit_ul li{
+    height: 70px;
+    margin-bottom: 10px;
+}
+.edit_ul li label{
+    display: inline-block;
+    height: 38px;
+    width: 100px;
+    text-align: right;
+    font-size: 16px;
+    line-height: 38px;
+}
+.edit_ul li input{
+    height: 38px;
+    width: 340px;
+    line-height: 38px;
+    font-size: 16px;
+    font-family: 'Microsoft YaHei', serif;
+    letter-spacing: 3px;
+}
+
+.error_tip{
+    margin-left: 110px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: red;
+    display: none;
+}
+#saveEdit{
+    height: 40px;
+    width: 160px;
+    background-color: red;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: 'Microsoft YaHei', serif;
+    color: #f8f8f8;
+    margin-bottom: 30px;
+    margin-left: 265px;
+    cursor: pointer;
+}
+
+.con_active {
+    display: block;
+}
+
+.active {
+    color: red;
+}

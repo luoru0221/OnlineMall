@@ -1,0 +1,13 @@
+
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(çÑÈ°
+o
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ï•ëÁ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(—î°ç
+{
+java:S19892"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(Í†»Öúÿÿÿÿ
+n
+java:S1989-"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ö›¯Çýÿÿÿÿ
+>
+java:S11851"(Remove this method to simply inherit it.(üª¼í
