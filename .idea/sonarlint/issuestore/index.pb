@@ -163,3 +163,33 @@ I
 src/main/webapp/login.jsp,8\5\85ee523d01e5e19376db640e846c91bbcb0a1c22
 R
 "src/main/webapp/orders_merchan.jsp,b\f\bf7df28669b67d39892619b1ceaf806fd1500cd6
+V
+&src/main/webapp/addproduct_merchan.jsp,b\4\b40c4114baafa21c3008d71c7cbe997223cd9cbd
+S
+#src/main/webapp/addtype_manager.jsp,5\4\545ece596631fc3417a7cd1a8963b42984666164
+H
+src/main/webapp/list.jsp,a\4\a48535ab683e00f53c770ffe36415e8bfdb94cca
+O
+src/main/webapp/moreproduct.jsp,1\f\1fab94576210d4d7338ce9b50c589b29c1441ae1
+R
+"src/main/webapp/orders_manager.jsp,b\8\b8efc30ef5acb5cf2aa14b730b28c1e7a6e510d2
+S
+#src/main/webapp/product_manager.jsp,2\3\231c5070609ede21560825f192c8f311278296b3
+S
+#src/main/webapp/product_merchan.jsp,1\d\1dd2f843ad616fcb170eadcdfbdb800c8ca91c85
+L
+src/main/webapp/register.jsp,b\d\bde35d3876092f82f8efadc1a6675aaf6bd96946
+P
+ src/main/webapp/user_manager.jsp,5\b\5b3c6f32e36d35bbe3a76a585319e33a823fd7d0
+M
+src/main/webapp/orderlist.jsp,b\f\bff0dfab21bfd694f0ff5c932ffa98cbd30adab3
+]
+-src/main/java/com/rul/mall/bean/Evaluate.java,8\c\8cc3e6aebd58f9d01edc51dbd79df01201219f0f
+Z
+*src/main/java/com/rul/mall/bean/Order.java,5\6\563d6a7931a14b57f414a648d27c7441ae5d8d00
+V
+&src/main/webapp/addproduct_manager.jsp,f\7\f71e5cda7f43998f5d408db961711993af9ee56c
+N
+src/main/webapp/usercenter.jsp,5\c\5cdca64ceb1225b122f88f5ccc8a43befe5e0631
+Y
+)src/main/java/com/rul/mall/bean/Cart.java,9\a\9aa1e27d456f8a5cdf417ac5a9ad2ca0658efa2c

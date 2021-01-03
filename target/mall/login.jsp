@@ -42,7 +42,7 @@
                         </label>
                         <div class="pwd_error"></div>
                         <div class="more_input priority">
-                            <a href="">忘记密码</a>
+<%--                            <a href="">忘记密码</a>--%>
                         </div>
                         <input type="submit" name="" value="登 录" class="input_submit">
                     </form>

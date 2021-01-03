@@ -87,8 +87,8 @@
             <a href="#">更多 &gt;</a>
         </div>
         <ul class="news_list">
-            <li><a href="http://www.iqiyi.com/playlist567516202.html" target="_blank">庆祝中华人民共和国成立70周年大会</a></li>
-            <li><a href="https://www.bilibili.com/video/av50351111" target="_blank">黑马最新JavaWeb入门到入土</a></li>
+            <li><a href="http://www.xinhuanet.com/politics/2020-12/31/c_1126934359.htm" target="_blank">国家主席习近平发表二〇二一年新年贺词</a></li>
+            <li><a href="https://new.qq.com/omn/20210102/20210102A09S1G00.html" target="_blank">时政微纪录丨2020我们一起走过</a></li>
         </ul>
     </div>
 </div>
