@@ -1,7 +1,6 @@
 package com.rul.mall.bean;
 /**
  *  @author: Luoru
- *  @Date: 2019/10/19 3:37
  *  @Description: 订单
  */
 public class Order {
